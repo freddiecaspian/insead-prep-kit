@@ -1,0 +1,5 @@
+.DS_Store
+.env
+*token*
+PDFs Inbox/*.pdf
+PDFs Done/*.pdf

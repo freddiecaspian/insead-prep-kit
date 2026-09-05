@@ -1,0 +1,22 @@
+# Your settings. This file is the single source of truth - the slash commands
+# read it every time they run. Edit it by hand or ask Claude to do it for you.
+
+student: Nathan Best
+campus: Fontainebleau
+languages: [english, french]
+
+# One entry per course. The canvas_id is the number in the address bar when
+# the course is open at learn.insead.edu (e.g. learn.insead.edu/courses/9876).
+courses:
+  - code: ETA
+    name: Entrepreneurship through Acquisition
+    canvas_id: 0000        # TODO: fill in at coffee one
+
+  # Add every other course as three more lines, same shape:
+  # - code: XYZ
+  #   name: Course Name
+  #   canvas_id: 0000
+
+download_to: PDFs Inbox/
+notes_to: Notes/
+done_to: PDFs Done/
