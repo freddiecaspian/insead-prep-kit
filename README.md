@@ -33,7 +33,7 @@ This assumes nothing is installed and no accounts exist. It takes under an hour,
 ### 1a. Two accounts (ten minutes)
 
 1. **Claude Pro** - go to [claude.ai](https://claude.ai), create an account, and take the Pro plan (US$20 a month). While you are there, install the desktop app and the iPhone app. New habit from day one: questions go to Claude before they go to Google.
-2. **GitHub** (free) - go to [github.com](https://github.com) and create an account. GitHub is where people share folders of code and text publicly. This kit lives there, and the link Freddie sends you points to it.
+2. **GitHub** (free) - go to [github.com](https://github.com) and create an account. GitHub is where people share folders of code and text publicly. This kit lives there: https://github.com/freddiecaspian/insead-prep-kit
 
 ### 1b. Speak, don't type - Wispr Flow
 
@@ -83,7 +83,7 @@ That is the whole foundation. Everything from here is the kit itself.
 1. In Terminal, download your copy of the kit:
 
    ```
-   git clone [the GitHub link Freddie sends you]
+   git clone https://github.com/freddiecaspian/insead-prep-kit
    ```
 
    (`git clone` means "download this shared folder and keep it connected to the original".)
